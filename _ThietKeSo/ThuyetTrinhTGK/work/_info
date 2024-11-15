@@ -1,0 +1,53 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/18.1
+vHaftAdder
+!s110 1730788025
+!i10b 1
+!s100 LUe=O9lXa_<4fAcCY];]K0
+IKJkVZ]aZZ0TH_=0DooAOD3
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+Z1 dE:/_University/_ThietKeSo/ThuyetTrinhTGK
+w1730782174
+8E:/_University/_ThietKeSo/ThuyetTrinhTGK/HaftAdder.v
+FE:/_University/_ThietKeSo/ThuyetTrinhTGK/HaftAdder.v
+L0 1
+Z2 OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1730788025.000000
+!s107 E:/_University/_ThietKeSo/ThuyetTrinhTGK/HaftAdder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/_University/_ThietKeSo/ThuyetTrinhTGK/HaftAdder.v|
+!i113 1
+Z3 o-work work
+Z4 tCvgOpt 0
+n@haft@adder
+vhalf_adder_gate
+!s110 1730788709
+!i10b 1
+!s100 V:3IQ8NDoim0XDAe2]L>d0
+I;`KZK63kX;;D<Hz<=@glR0
+R0
+R1
+w1730788669
+8E:/_University/_ThietKeSo/ThuyetTrinhTGK/half_adder_gate.v
+FE:/_University/_ThietKeSo/ThuyetTrinhTGK/half_adder_gate.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1730788709.000000
+!s107 E:/_University/_ThietKeSo/ThuyetTrinhTGK/half_adder_gate.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/_University/_ThietKeSo/ThuyetTrinhTGK/half_adder_gate.v|
+!i113 1
+R3
+R4

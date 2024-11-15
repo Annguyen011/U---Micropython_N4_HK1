@@ -1,0 +1,15 @@
+E:/_University/_ThietKeSo/_GiuaKy/ModelSim/mux4to1_gate_TestBench.v {1 {vlog -work work -stats=none E:/_University/_ThietKeSo/_GiuaKy/ModelSim/mux4to1_gate_TestBench.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module mux4to1_gate_TestBench
+
+Top level modules:
+	mux4to1_gate_TestBench
+
+} {} {}} E:/_University/_ThietKeSo/_GiuaKy/ModelSim/mux4to1_gate.v {1 {vlog -work work -stats=none E:/_University/_ThietKeSo/_GiuaKy/ModelSim/mux4to1_gate.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module mux4to1_gate
+
+Top level modules:
+	mux4to1_gate
+
+} {} {}}

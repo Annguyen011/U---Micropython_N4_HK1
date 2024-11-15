@@ -1,0 +1,52 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dE:/_University/_ThietKeSo/_GiuaKy/ModelSim
+vhalf_adder_behavioral
+!s110 1731395340
+!i10b 1
+!s100 =:Ln;f83dV@<0<>k]gQ];3
+I14>fKclEa5O_`:QH6i_9W1
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+Z1 dE:/_University/_ThietKeSo/ThuyetTrinh
+w1731395306
+8E:/_University/_ThietKeSo/ThuyetTrinh/half_adder_behavioral.v
+FE:/_University/_ThietKeSo/ThuyetTrinh/half_adder_behavioral.v
+L0 1
+Z2 OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1731395340.000000
+!s107 E:/_University/_ThietKeSo/ThuyetTrinh/half_adder_behavioral.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/_University/_ThietKeSo/ThuyetTrinh/half_adder_behavioral.v|
+!i113 1
+Z3 o-work work
+Z4 tCvgOpt 0
+vtest_half_adder_behavioral
+!s110 1731397308
+!i10b 1
+!s100 l=S5:_kjj1TWTcgd1>cKR2
+I<HadKFO8jgj19B7mhnW1g2
+R0
+R1
+w1731397263
+8E:/_University/_ThietKeSo/ThuyetTrinh/test_half_adder_behavioral.v
+FE:/_University/_ThietKeSo/ThuyetTrinh/test_half_adder_behavioral.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1731397308.000000
+!s107 E:/_University/_ThietKeSo/ThuyetTrinh/test_half_adder_behavioral.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/_University/_ThietKeSo/ThuyetTrinh/test_half_adder_behavioral.v|
+!i113 1
+R3
+R4

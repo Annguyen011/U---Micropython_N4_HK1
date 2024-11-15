@@ -1,0 +1,52 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dE:/_University/_ThietKeSo/ThuyetTrinhTGK
+vhalf_adder_gate
+Z0 !s110 1730789346
+!i10b 1
+!s100 V:3IQ8NDoim0XDAe2]L>d0
+IJ;?7_KI4`lQkPA^Y3GkN12
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dE:/_University/_ThietKeSo/New folder (2)
+w1730788964
+8E:/_University/_ThietKeSo/New folder (2)/half_adder_gate.v
+FE:/_University/_ThietKeSo/New folder (2)/half_adder_gate.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1730789346.000000
+!s107 E:/_University/_ThietKeSo/New folder (2)/half_adder_gate.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/_University/_ThietKeSo/New folder (2)/half_adder_gate.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+vtest_half_adder_gate
+R0
+!i10b 1
+!s100 L<bCK99VbWMEIM<YLS=A30
+IJHgH`HE>DIF9Z=4>PiR;i0
+R1
+R2
+w1730789338
+8E:/_University/_ThietKeSo/New folder (2)/test_half_adder_gate.v
+FE:/_University/_ThietKeSo/New folder (2)/test_half_adder_gate.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 E:/_University/_ThietKeSo/New folder (2)/test_half_adder_gate.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/_University/_ThietKeSo/New folder (2)/test_half_adder_gate.v|
+!i113 1
+R5
+R6

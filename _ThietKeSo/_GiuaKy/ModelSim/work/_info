@@ -1,0 +1,53 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dE:/_University/_ThietKeSo/New folder (2)
+vmux4to1_gate
+!s110 1730795909
+!i10b 1
+!s100 05>SG[>:;XAeLE<HYGiDB3
+I0OVYMYakzO_[geUQ]j9If1
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+Z1 dE:/_University/_ThietKeSo/_GiuaKy/ModelSim
+w1730795403
+8E:/_University/_ThietKeSo/_GiuaKy/ModelSim/mux4to1_gate.v
+FE:/_University/_ThietKeSo/_GiuaKy/ModelSim/mux4to1_gate.v
+L0 1
+Z2 OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1730795909.000000
+!s107 E:/_University/_ThietKeSo/_GiuaKy/ModelSim/mux4to1_gate.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/_University/_ThietKeSo/_GiuaKy/ModelSim/mux4to1_gate.v|
+!i113 1
+Z3 o-work work
+Z4 tCvgOpt 0
+vmux4to1_gate_TestBench
+!s110 1731394600
+!i10b 1
+!s100 Oba<]^XHAe]CRM4OU@DHM0
+I`GkV?9gikO645g?G5`>`C0
+R0
+R1
+w1731394593
+8E:/_University/_ThietKeSo/_GiuaKy/ModelSim/mux4to1_gate_TestBench.v
+FE:/_University/_ThietKeSo/_GiuaKy/ModelSim/mux4to1_gate_TestBench.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1731394600.000000
+!s107 E:/_University/_ThietKeSo/_GiuaKy/ModelSim/mux4to1_gate_TestBench.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/_University/_ThietKeSo/_GiuaKy/ModelSim/mux4to1_gate_TestBench.v|
+!i113 1
+R3
+R4
+nmux4to1_gate_@test@bench

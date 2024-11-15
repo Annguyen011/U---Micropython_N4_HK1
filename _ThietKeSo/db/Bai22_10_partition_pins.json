@@ -1,0 +1,25 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "out_Final",
+					"strict" : false
+				},
+				{
+					"name" : "X1",
+					"strict" : false
+				},
+				{
+					"name" : "X4",
+					"strict" : false
+				},
+				{
+					"name" : "X3",
+					"strict" : false
+				}
+			]
+		}
+	]
+}
